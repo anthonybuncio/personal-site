@@ -41,7 +41,7 @@ describe('renders the app', () => {
   });
 
   it('should render the title', async () => {
-    expect(document.title).toBe('Anthony Buncio');
+    expect(document.title).toBe('Anthony Buncio | Software Engineer');
   });
 
   it('can navigate to /about', async () => {
