@@ -9,9 +9,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="/">Hi! My name is Anthony Buncio </Link>
+            <Link to="/"><span className="highlight">Software engineer. <br />Web developer. <br />Creator.</span></Link>
           </h2>
-          <p>I&apos;m a full stack software engineer and this is where <span className="highlight">code</span> happens..
+          <p>this is where code happens..
             <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="24" alt="coding" />
           </p>
         </div>
