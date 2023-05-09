@@ -32,14 +32,28 @@
 	);
 
 // Palette.
+// DARK MODE
 	$palette: (
-		bg:							#ffffff,
-		bg-alt:						#f4f4f4,
-		fg:							#646464,
-		fg-bold:					#3c3b3b,
-		fg-light:					#aaaaaa,
-		border:						rgba(160,160,160,0.3),
-		border-bg:					rgba(160,160,160,0.075),
-		border-alt:					rgba(160,160,160,0.65),
+		bg:							#646464,
+		bg-alt:						#3c3b3b,
+		fg:							#f4f4f4,
+		fg-bold:					#ffffff,
+		fg-light:					#f4f4f4,
+		border:						rgba(255,255,255,0.3),
+		border-bg:					rgba(255,255,255,0.075),
+		border-alt:					rgba(255,255,255,0.65),
 		accent:						#2e59ba
 	);
+
+// LIGHT MODE
+	// $palette: (
+	// 	bg:							#ffffff,
+	// 	bg-alt:						#f4f4f4,
+	// 	fg:							#646464,
+	// 	fg-bold:					#3c3b3b,
+	// 	fg-light:					#aaaaaa,
+	// 	border:						rgba(160,160,160,0.3),
+	// 	border-bg:					rgba(160,160,160,0.075),
+	// 	border-alt:					rgba(160,160,160,0.65),
+	// 	accent:						#2e59ba
+	// );
