@@ -26,16 +26,15 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Anthony. I enjoy building apps. I am a self-taught
-        software engineer, web developer, computer science grad and{' '}
+        Hi, I&apos;m Anthony. I am a HCC graduate,{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">
           Iron Yard
-        </a>{' '}
-        Coding Bootcamp Alumni. Prior to becoming a software engineer, I&apos;ve
-        held several management positions in Hawaii and Texas.{' '}
+        </a>
+        {' '}coding bootcamp alumni, and Full Stack Data Engineer at{' '}
+        AutoLotto. My previous professional experience{' '}
+        includes holding various management positions within Hawaii and Texas.
         <br />
         <br />
-
       </p>
       <ul className="actions">
         <li>

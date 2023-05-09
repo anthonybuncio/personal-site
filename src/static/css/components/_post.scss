@@ -34,6 +34,13 @@
 				> :last-child {
 					margin-bottom: 0;
 				}
+
+				.highlight {
+					background-image: linear-gradient(to right, rgb(153, 246, 228), rgb(217, 249, 157));
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+					font-weight: bold
+				}
 			}
 
 			.meta {

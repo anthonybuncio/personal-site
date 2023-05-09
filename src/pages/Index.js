@@ -11,7 +11,7 @@ const Index = () => (
           <h2 data-testid="heading">
             <Link to="/">Hi! My name is Anthony Buncio </Link>
           </h2>
-          <p>I&apos;m a full stack software engineer and this is where code happens..
+          <p>I&apos;m a full stack software engineer and this is where <span className="highlight">code</span> happens..
             <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="24" alt="coding" />
           </p>
         </div>
