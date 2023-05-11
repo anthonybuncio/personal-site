@@ -11,13 +11,12 @@ const Index = () => (
           <h2 data-testid="heading">
             <Link to="/"><span className="highlight">Software engineer. <br />Web developer. <br />Creator.</span></Link>
           </h2>
-          <p>this is where code happens..
-            <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="24" alt="coding" />
+          <p>Welcome to my portfolio!
           </p>
         </div>
       </header>
       <p>
-        Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>, check
+        Please feel free to read more <Link to="/about">about me</Link>, check
         out my <Link to="/resume">resume</Link>, view my{' '}
         <Link to="/projects">projects</Link>, or{' '}
         <Link to="/contact">contact</Link> me.
