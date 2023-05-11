@@ -23,6 +23,7 @@
 
 			.title {
 				@include vendor('flex-grow', '1');
+				flex: auto;
 				-ms-flex: 1;
 				padding: (_size(section-spacing) * 1.25) _size(section-spacing) (_size(section-spacing) * 1.1) _size(section-spacing);
 
@@ -37,6 +38,7 @@
 
 				.highlight {
 					background: linear-gradient(to right, rgb(56, 189, 248), rgb(251, 113, 133), rgb(163, 230, 53));
+					background-clip: text;
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
 				}
@@ -140,6 +142,7 @@
 				border-left: 0;
 
 				.title {
+					flex: auto;
 					-ms-flex: 0 1 auto;
 					margin: 0 0 _size(element-margin) 0;
 					padding: 0;
