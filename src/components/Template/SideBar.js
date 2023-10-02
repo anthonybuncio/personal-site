@@ -29,7 +29,7 @@ const SideBar = () => (
         Hi, I&apos;m Anthony. I am a <a href="https://hccs.edu/">HCC</a> graduate,{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">Iron Yard</a>
         {' '}coding bootcamp alumni, and Full Stack Data & Analytics Engineer at{' '}
-        <a href="https://lottery.com/">AutoLotto</a>. My previous professional experience{' '}
+        <a href="https://lottery.com/">Lottery.com</a>. My previous professional experience{' '}
         includes various management positions within Hawaii and Texas for{' '}
         <a href="https://focusbrands.com/">Focus Brands</a> and{' '}
         <a href="https://simplyhempwellness.com/">Simply Hemp</a>.

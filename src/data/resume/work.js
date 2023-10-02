@@ -13,7 +13,7 @@
  */
 const work = [
   {
-    name: 'Autolotto, Inc.',
+    name: 'Lottery.com',
     position: 'Software Engineer (Data & Analytics)',
     url: 'http://lottery.com',
     startDate: '2022-04-01',
@@ -38,32 +38,17 @@ const work = [
     ],
   },
   {
-    name: 'CocoLoco LLC',
-    position: 'Web Developer / Graphic Designer',
-    url: 'https://cocolococolorado.com',
-    startDate: '2021-02-01',
-    endDate: '2022-05-01',
-    highlights: [
-      'Designed and developed the company’s e-commerce website using the latest web technologies and frameworks.',
-      'Managed and maintained the company’s product catalog, ensuring accurate and up-to-date product information, pricing, and availability.',
-      'Developed and executed digital marketing campaigns, including email marketing, search engine optimization, and pay-per-click advertising, to drive traffic, generate leads, and increase online sales.',
-      'Managed and maintained the company’s IT infrastructure, including desktops, laptops, servers, and network equipment.',
-      'Implemented advanced analytics and tracking solutions, providing insights into website traffic, user behavior, and other key metrics.',
-    ],
-  },
-  {
     name: 'Simply Hemp Wellness',
-    position: 'Web Developer, Retail & Social Media Manager',
+    position: 'Lead Web Developer/IT Systems Administrator',
     url: 'https://simplyhempwellness.com',
     startDate: '2019-01-01',
-    endDate: '2021-01-01',
+    endDate: '2022-04-01',
     highlights: [
-      'Implement and maintain content management systems, primarily WordPress; including installation, configuration, and troubleshooting.',
-      'Manage technical integration with third-party services.',
-      'Provide networking/desktop support and resolve technical issues of software and surveillance systems.',
-      'Maintained strong social media presence across Twitter, Facebook, and Instagram platforms.',
-      'Built upon current client strategies within difficult CBD ad marketing space to meet and exceed expectations.',
-      'Provide quarterly campaign performance reporting and analysis to clients.',
+      'Designed and developed e-commerce website using the latest web technologies and frameworks.',
+      'Managed and maintained product catalog, ensuring accurate and up-to-date product information, pricing, and availability.',
+      'Implemented advanced analytics and tracking solutions, providing insights into website traffic, user behavior, and other key metrics.',
+      'Executed digital marketing campaigns, including email marketing, search engine optimization, and pay-per- click advertising, to drive traffic, generate leads, and increase online sales.',
+      'Managed and maintained the IT infrastructure, including desktops, laptops, servers, and network equipment.',
     ],
   },
   {
