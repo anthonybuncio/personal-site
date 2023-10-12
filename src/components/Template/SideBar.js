@@ -53,7 +53,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; {date} Anthony Buncio. <Link to="/">anthonybuncio.com</Link>.</p>
+      <p className="copyright">&copy; {date} Anthony Buncio <Link to="/">anthonybuncio.com</Link>.</p>
     </section>
   </section>
 );
