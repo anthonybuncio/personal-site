@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Reddit Rescuer',
+    subtitle: 'Reddit media downloader',
+    link: 'https://github.com/anthonybuncio/reddit-rescuer',
+    image: '/images/projects/reddit.png',
+    date: '2023-09-30',
+    desc:
+      'Reddit Rescuer is a media downloader for Reddit that allows users to easily download their saved image and video posts from the platform. This tool is designed to help you securely backup your favorite media content for offline viewing or archiving purposes.',
+  },
+  {
     title: 'Play-i AI Generated Playlist',
     subtitle: 'AI Generated Playlist',
     link: 'https://chatgpt-dj.vercel.app/',
@@ -12,9 +21,9 @@ const data = [
       + 'Whether youʼre working out, relaxing, or in need of a pick-me-up, our playlist generator has got you covered.',
   },
   {
-    title: 'StreetLensHouston - Cloud sharing dashcam video platform',
+    title: 'Street Lens - Cloud sharing dashcam video platform',
     subtitle: 'Cloud sharing dashcam video platform',
-    link: 'https://dashcam-uploader.vercel.app/',
+    link: 'https://streetlens.vercel.app/',
     image: '/images/projects/dashcam.jpg',
     date: '2023-01-30',
     desc:
