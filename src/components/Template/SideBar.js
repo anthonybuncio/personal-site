@@ -26,9 +26,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Anthony. I am a <a href="https://hccs.edu/">HCC</a> graduate,{' '}
+        Hi! I&apos;m Anthony, an <a href="https://hccs.edu/">HCC</a> graduate,{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">Iron Yard</a>
-        {' '}coding bootcamp alumni, and Full Stack Data & Analytics Engineer at{' '}
+        {' '}coding bootcamp alumni, and currently the Full Stack Data & Analytics Engineer at{' '}
         <a href="https://lottery.com/">Lottery.com</a>. My previous professional experience{' '}
         includes various management positions within Hawaii and Texas for{' '}
         <a href="https://focusbrands.com/">Focus Brands</a> and{' '}

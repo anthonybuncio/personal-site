@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Street Lens - Cloud sharing dashcam video platform',
+    subtitle: 'Cloud sharing dashcam video platform',
+    link: 'https://www.streetlens.pro/',
+    image: '/images/projects/dashcam.jpg',
+    date: '2023-11-30',
+    desc:
+      'Stay protected and connected with our Dashcam cloud sharing platform that allows you to share your footage and critical accident information with ease. '
+      + 'Our platform makes it simple to upload and share your dashcam footage and additional details about an accident, ensuring that you have a clear record of what happened. '
+      + 'With our platform, you can feel confident knowing that youʼre prepared in case of an accident.',
+  },
+  {
     title: 'Reddit Rescuer',
     subtitle: 'Reddit media downloader',
     link: 'https://github.com/anthonybuncio/reddit-rescuer',
@@ -19,17 +30,6 @@ const data = [
       'Elevate your music experience with our AI playlist generator that curates personalized playlists based on your preferred genre, year, mood, or activity. '
       + 'Our advanced algorithms analyze your music preferences and create playlists that perfectly match your current mood or activity. '
       + 'Whether youʼre working out, relaxing, or in need of a pick-me-up, our playlist generator has got you covered.',
-  },
-  {
-    title: 'Street Lens - Cloud sharing dashcam video platform',
-    subtitle: 'Cloud sharing dashcam video platform',
-    link: 'https://streetlens.vercel.app/',
-    image: '/images/projects/dashcam.jpg',
-    date: '2023-01-30',
-    desc:
-      'Stay protected and connected with our Dashcam cloud sharing platform that allows you to share your footage and critical accident information with ease. '
-      + 'Our platform makes it simple to upload and share your dashcam footage and additional details about an accident, ensuring that you have a clear record of what happened. '
-      + 'With our platform, you can feel confident knowing that youʼre prepared in case of an accident.',
   },
   {
     title: 'Ready, Set, STEM - 2022 NASA Hackathon',
@@ -53,6 +53,18 @@ const data = [
       + 'who are looking to contribute to Github open source projects. I noticed how difficult it was to find '
       + 'smaller community projects, along with developers who share the same stack knowledge so I built CollabOS for '
       + 'developers of any level to gain collaboration experience.',
+  },
+  {
+    title: 'Simply Hemp Wellness — eCommerce',
+    subtitle: 'Elevate Your Wellness, Simply Hemp CBD Style!',
+    link: 'https://www.simplyhempwellness.com/',
+    image: '/images/projects/simplyhemp.jpg',
+    date: '2020-06-24',
+    desc:
+      'Unwind, rejuvenate, and embrace a healthier lifestyle with our Stafford-based CBD wellness shop. '
+      + 'Established in 2018, Simply Hemp has been providing the best CBD products for our customers. '
+      + 'Your journey to well-being begins with a click as you explore our virtual shelves filled with premium '
+      + 'CBD products. From stress-relieving gummies to restorative oils, our ecommerce website offers a seamless shopping experience. ',
   },
   {
     title: 'Electron NBA',
